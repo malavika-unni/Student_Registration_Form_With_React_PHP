@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import ReactDOM from 'react-dom';
-import StudentView from './components/ViewData';
+import StudentView from './components/StudentView';
 import StudentRegForm from './components/StudentRegForm';
 
 
